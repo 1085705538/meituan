@@ -46,9 +46,3 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-
-html,body{
-	max-width: 640px;
-	min-width: 320px;
-	margin: 0 auto;
-}
